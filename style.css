@@ -1,0 +1,19 @@
+body{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+}
+h1{
+	font-family: initial;	 
+}
+blockquote{
+	border-style: solid;
+	text-align: center;
+	border-color: white;
+	border-width: 1px;
+	margin-left: 0px;
+}
+div{
+	width: 600px;
+	margin: auto;
+	text-align: left;
+}
