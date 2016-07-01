@@ -1,0 +1,118 @@
+body{
+	font-family: 'Philosopher', sans-serif;
+}
+header{
+
+	position: fixed;
+	background-color: white;
+	top: 0px;
+	padding-top: 10px;
+}
+.heading{
+	float: left;
+	font-size: 30px;
+	margin-top: 10px;
+
+}
+ nav {
+	float: right;
+	padding-top: 10px;
+	font-family: 'Dancing Script', cursive;
+}
+a{
+	font-size: 11px;
+	color: #7e7e7e;
+
+	text-decoration: none;
+	
+
+}
+
+a:hover{
+	color: black;
+}
+nav a{
+	text-transform: uppercase;
+
+}
+ nav li
+ {
+
+ 	display: inline;
+ 	margin-left: 55px;
+ 	margin-right: 2px;
+ 	text-decoration: none;
+ 	word-spacing: 1px;
+ 	color: #181818;
+
+ }
+ 	
+ .main{
+ 	font-size: 15px;
+ 	line-height: 20px;
+	color: #353535;
+ 	margin:30px 0px;
+ 	
+ }
+.banner{
+	background: url(../Images/time.jpg) no-repeat;
+	width: 695px;
+	height: 460px;
+}
+.button{
+	font-size: 15px;
+	color: black;
+}
+.button:hover{
+	color: black;
+	text-decoration: underline;
+}
+
+h4{
+	letter-spacing: -1px;
+	text-transform: lowercase;
+	font-size: 26px;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 20px;
+	margin-bottom: 15px;	
+}
+.container_24{
+	margin-top: 10px;
+}
+
+aside{
+	background-color: #9ca68b ;
+	height: 231px;
+
+  }
+aside h2{
+	padding-top: 10px;	
+color: white;
+font-size: 24px;	
+text-align:center;
+}
+
+aside p{
+	color: white;
+	text-align: center;
+}
+
+aside input{
+	margin-left: 55px;
+}
+.heading{
+	padding-bottom: 10px;
+	font-size: 56px;
+}
+.subheading{
+	font-size: 23px;
+	margin-right: 55px;
+}
+.bahubali{
+	font-size: 18px;
+	word-spacing: 2px;
+}
+
+.choices {
+	font-size: 20px;
+} 
