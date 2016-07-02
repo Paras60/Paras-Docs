@@ -7,11 +7,13 @@ header{
 	background-color: white;
 	top: 0px;
 	padding-top: 10px;
+	padding-bottom: 0px;
 }
-.heading{
+.headings{
 	float: left;
 	font-size: 30px;
 	margin-top: 10px;
+	padding-bottom: 0px;
 
 }
  nav {
@@ -19,7 +21,7 @@ header{
 	padding-top: 10px;
 	font-family: 'Dancing Script', cursive;
 }
-a{
+nav a{
 	font-size: 11px;
 	color: #7e7e7e;
 
@@ -60,6 +62,7 @@ nav a{
 	height: 460px;
 }
 .button{
+	text-decoration: none;
 	font-size: 15px;
 	color: black;
 }
@@ -82,7 +85,7 @@ h4{
 
 aside{
 	background-color: #9ca68b ;
-	height: 231px;
+	height: 270px;
 
   }
 aside h2{
@@ -96,23 +99,64 @@ aside p{
 	color: white;
 	text-align: center;
 }
-
-aside input{
-	margin-left: 55px;
+aside a{
+	text-decoration: none;
+	margin: auto;
+	color: white;
+	font-size: 15px;
 }
-.heading{
-	padding-bottom: 10px;
+.head{
+	margin-top: 0px;
 	font-size: 56px;
 }
-.subheading{
+.subheads{
+	padding-bottom: 20px;
 	font-size: 23px;
-	margin-right: 55px;
+	text-align: center;
+	margin-right: 39px;
+
 }
 .bahubali{
+
+	margin-right: 29px;
+	padding-top: -19px;
 	font-size: 18px;
 	word-spacing: 2px;
 }
 
-.choices {
+#book{
 	font-size: 20px;
+	text-align: center;
 } 
+
+#book a{
+	color: black;
+	text-decoration: none;
+}
+
+#book a:hover{
+	text-decoration: underline;
+}
+.singapore p{
+	font-size: 20px;
+	margin-left: 115px;
+}
+
+.singapore a{
+	text-decoration: none;
+	color: black;
+}
+
+.singapore a:hover{
+	text-decoration: underline;
+}
+footer{
+	font-size: 23px;
+}
+
+footer li{
+	float: right;
+	text-decoration: none;
+	list-style: none;
+	display: inline;
+}
